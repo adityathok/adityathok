@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![adityathok's Stats](https://github-readme-stats.vercel.app/api?username=adityathok&theme=react&show_icons=true&hide_border=false&count_private=true)
+![adityathok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityathok&theme=react&hide_border=false)
+![adityathok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathok&theme=react&show_icons=true&hide_border=false&layout=compact)
+
 <!--
 **adityathok/adityathok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
